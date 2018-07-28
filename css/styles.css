@@ -1,4 +1,5 @@
 .container{
+    margin-top: 2%;
     background-color: aqua;
     opacity: 0.8;
     padding: 5%;
@@ -6,6 +7,9 @@
     border-radius: 20px;
 }
 
-.container1{
+.container-fluid{
+    margin-top: 2%;
     background-color: beige;
+    padding: 4%;
+    text-align: center;
 }
