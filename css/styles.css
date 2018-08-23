@@ -30,6 +30,7 @@ body{
     background-image: url('../images/bicycle.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
+    padding-bottom: 2%;
 }
 
 /*navbars*/
