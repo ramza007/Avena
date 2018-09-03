@@ -1,0 +1,14 @@
+body{
+    background-image: url('../images/excersise.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+        background-size: cover;
+}
+
+.container{
+    background-color: black;
+    opacity: 0.9;
+    color: white;
+    padding: 10%;
+    border-radius: 10px;
+}
