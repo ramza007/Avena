@@ -1,4 +1,20 @@
-.container{
+h1{
     text-align: center;
+}
+
+.container{
+    text-align: left;
     padding: 5%;
+    margin-top: 2%;
+    background-color: cornflowerblue;
+    opacity: 0.9;
+    border-radius: 20px;
+}
+
+.container1{
+    opacity: 1;
+}
+
+h3{
+    padding-top: 1%;
 }
