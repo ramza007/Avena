@@ -21,3 +21,8 @@ body{
     background-size: cover;
     background-attachment: fixed;
 }
+
+.title{
+    text-decoration: underline;
+    background-color: black;
+}
