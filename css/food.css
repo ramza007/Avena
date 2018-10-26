@@ -26,3 +26,9 @@ body{
     text-decoration: underline;
     background-color: black;
 }
+
+table, th, td {
+    border: 2px solid white;
+    border-collapse: collapse;
+    padding: 5px;
+}
