@@ -1,11 +1,23 @@
 .container{
+    margin-top: 8%;
+    background-color: aqua;
+    opacity: 0.8;
+    padding: 15%;
+    text-align: center;
+    border-radius: 20px;
+    font-family: 'Spicy Rice', cursive;
+}
+
+/* .container{
     margin-top: 2%;
     background-color: aqua;
     opacity: 0.8;
     padding: 5%;
     text-align: center;
     border-radius: 20px;
-}
+    font-family: 'Spicy Rice', cursive;
+} */
+
 
 .container1{
     margin-top: 2%;
