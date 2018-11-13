@@ -1,5 +1,11 @@
 h1{
     text-align: center;
+    background-color: cornflowerblue;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 2%;
+    opacity: 0.8;
+    border-radius: 15px;
 }
 
 .container{
@@ -19,11 +25,7 @@ h3{
     padding-top: 1%;
 }
 
-a{
-    text-decoration: none;
-    color: white;
-}
-
-href{
-    text-decoration: none;
+body{
+    background-image: url("../images/bicycle.jpg");
+    background-attachment: fixed;
 }
